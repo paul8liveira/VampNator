@@ -1,4 +1,6 @@
-![alt text](http://paulooliveira.s3-sa-east-1.amazonaws.com/portfolios/avatars/000/000/022/original/modelo_imagem_portfolio.png?1497320084)
+<div style="text-align:center">
+	<img src ="http://paulooliveira.s3-sa-east-1.amazonaws.com/portfolios/avatars/000/000/022/original/modelo_imagem_portfolio.png?1497320084" width="200px" />
+</div>
 
 # VampNator
 Sacaneie a galera com esse ícone do esporte! VampNator é uma extensão do chrome que modifica as imagens do site que você estiver acessando por imagens do Vampeta!
